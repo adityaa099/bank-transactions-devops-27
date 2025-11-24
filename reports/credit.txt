@@ -1,0 +1,7 @@
+T001,5000,Credit
+T003,1500,Credit
+T005,12000,Credit
+T007,6000,Credit
+T009,9000,Credit
+T011,7500,Credit
+T013,6500,Credit
